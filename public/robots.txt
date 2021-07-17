@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thirdwebsite.web.app/sitemap.xml
